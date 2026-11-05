@@ -1,0 +1,15 @@
+name: tappay
+description: Concept d'application de paiement par capteur.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+flutter:
+  uses-material-design: true
